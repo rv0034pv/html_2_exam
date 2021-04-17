@@ -1,0 +1,31 @@
+.contact tr{
+  height: 7rem;
+}
+.contact th{
+  width: 150px;
+  text-align: right;
+}
+.contact td {
+  width: 560px;
+  padding-left: 1rem;
+}
+.input_content {
+  width: 480px;
+}
+.text_content{
+  width: 480px;
+}
+.submit_bottun{
+  height: 50px;
+  width: 80px;
+  font-size: 2rem;
+  background-color: #0099CC;
+  color: white;
+  padding: 10px;
+}
+.content p{
+  text-align: center;
+}
+.submit_bottun:hover{
+  opacity: 0.5;
+}
