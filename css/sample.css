@@ -68,7 +68,7 @@ font-size: 1.5rem;
 /* ここから */
 .function {
   background-color: #D3D3D3;
-  width: 1500px;
+  width: 100%;
   height: 500px;
   position:relative;
   overflow: hidden;
@@ -92,7 +92,7 @@ footer {
 color: white;
 background-color: #283A4B;
 font-size: 0.8rem;
-height: 370x;
+height: 70px;
 width: 100%;
 position: absolute;
 bottom: 0;
@@ -102,7 +102,6 @@ footer {
 display: table-cell;
 text-align: center;
 vertical-align: center;
-padding: 10px;
 }
 /* ここに書かれているcssの記述はあくまでヒントとして用意された雛形なので、書かれている記述に従わずに実装したいという場合は、自分の好きに実装して構わない。課題要件を満たし、コードの品質が一定の水準にあると判定されればどのような実装でも合格になる。 */
 
